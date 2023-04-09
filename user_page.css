@@ -1,0 +1,134 @@
+.container{
+ /* min-height: 100vh; */
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ /* padding:20px; */
+ padding-top: 80px;
+
+
+}
+
+.container .content{
+ text-align: center;
+ border: 1px solid #fff;
+ padding: 20px 15px;
+ background-color: #fff;
+ box-shadow: 0px 2px 3px 0px rgba(95, 89, 95, 0.41);
+ border-radius: 5px;
+}
+
+.container .content h3{
+ font-size: 30px;
+ color:#333;
+
+}
+
+.container .content h3 span{
+ background: crimson;
+ color:black;
+ 
+ border-radius: 5px;
+ padding:0 15px;
+}
+
+.container .content h1{
+ font-size: 50px;
+ color:#333;
+ 
+}
+
+.container .content h1 span{
+ color:crimson;
+ font-size: 40px;
+}
+
+.container .content p{
+ font-size: 25px;
+ margin-bottom: 20px;
+ color: #333;
+}
+
+.container .content .btn1{
+ display: inline-block;
+ padding:10px 30px;
+ font-size: 20px;
+ background: #333;
+ 
+ color:#fff;
+ margin:0 5px;
+ text-transform: capitalize;
+ text-decoration: none;
+}
+
+.container .content .btn1:hover{
+ background: crimson;
+}
+
+
+
+/* *************************************************some style.css here******************************************************** */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,274 @@
+{"furnitures":[
+ {
+  "image": "products/furniture1.png",
+  "title": "furniture",
+ "description": "some description here....",
+ "price": "9.99"
+ },
+ {
+  "image": "products/furniture2.png",
+  "title": "furniture",
+ "description": "some description here....",
+ "price": "7.99"
+ },
+ {
+  "image": "products/furniture3.png",
+  "title": "furniture",
+ "description": "some description here....",
+ "price": "12.99"
+ },
+ {
+  "image": "products/furniture4.png",
+  "title": "furniture",
+ "description": "some description here....",
+ "price": "8.99"
+ },
+ {
+  "image": "products/furniture5.png",
+  "title": "furniture",
+ "description": "some description here....",
+ "price": "10.99"
+
+ },
+ {
+  "image": "products/furniture6.png",
+  "title": "furniture",
+ "description": "some description here....",
+ "price": "11.99"
+
+ },
+
+ {
+  "image": "products/furniture7.png",
+  "title": "furniture",
+ "description": "some description here....",
+ "price": "6.99"
+ 
+ },
+ {
+  "image": "products/furniture8.png",
+  "title": "furniture",
+ "description": "some description here....",
+ "price": "8.99"
+
+ }
+
+
+
+
+],
+
+
+
+"clothes":[
+ {
+
+  "image": "products/hoodie1.png",
+ "title": "Hoodie1",
+ "description": "some description here....",
+ "price": "3.99"
+ } ,
+ {
+  
+  "image": "products/hoodie2.png",
+ "title": "Hoodie2",
+ "description": "some description here....",
+ "price": "5.99"
+ } ,
+ {
+
+  "image": "products/shirt1.png",
+ "title": "shirt1",
+ "description": "some description here....",
+ "price": "4.99"
+ } ,
+ {
+
+  "image": "products/shirt2.png",
+ "title": "shirt2",
+ "description": "some description here....",
+ "price": "6.99"
+ } ,
+ {
+ 
+  "image": "products/tshirt1.png",
+ "title": "t-shirt1",
+ "description": "some description here....",
+ "price": "7.99"
+ } ,
+ {
+ 
+  "image": "products/sweatshirt1.png",
+ "title": "sweatshirt1",
+ "description": "some description here....",
+ "price": "5.99"
+ } ,
+ {
+
+  "image": "products/tshirt2.png",
+ "title": "t-shirt2",
+ "description": "some description here....",
+ "price": "8.99"
+ } ,
+ {
+
+  "image": "products/tshirt3.png",
+ "title": "t-shirt3",
+ "description": "some description here....",
+ "price": "4.99"
+ }
+],
+
+"beautyProducts":[
+ {
+  "image": "products/beauty1.png",
+ "title": "Beauty products",
+ "description": "some description here....",
+ "price": "9.99"
+ } ,
+ {
+  "image": "products/beauty2.png",
+ "title": "Beauty products",
+ "description": "some description here....",
+ "price": "9.99"
+ } ,
+ {
+  "image": "products/beauty3.png",
+ "title": "Beauty products",
+ "description": "some description here....",
+ "price": "9.99"
+ } ,
+ {
+  "image": "products/beauty4.png",
+ "title": "Beauty products",
+ "description": "some description here....",
+ "price": "9.99"
+ } ,
+ {
+  "image": "products/beauty5.png",
+ "title": "Beauty products",
+ "description": "some description here....",
+ "price": "9.99"
+ } ,
+ {
+  "image": "products/beauty6.png",
+ "title": "Beauty products",
+ "description": "some description here....",
+ "price": "9.99"
+ } ,
+ {
+  "image": "products/beauty6.png",
+ "title": "Beauty products",
+ "description": "some description here....",
+ "price": "9.99"
+ } ,
+ {
+  "image": "products/beauty8.png",
+ "title": "Beauty products",
+ "description": "some description here....",
+ "price": "9.99"
+ }
+],
+"kitchen":[
+ {
+  "image": "products/kitchen1.png",
+  "title": "Kitchen products",
+  "description": "some description here....",
+  "price": "9.99"
+  },
+ {
+  "image": "products/kitchen2.png",
+  "title": "Kitchen products",
+  "description": "some description here....",
+  "price": "9.99"
+  },
+  {
+   "image": "products/kitchen3.png",
+   "title": "Kitchen products",
+   "description": "some description here....",
+   "price": "9.99"
+   },
+   {
+    "image": "products/kitchen4.png",
+    "title": "Kitchen products",
+    "description": "some description here....",
+    "price": "9.99"
+    },
+    {
+     "image": "products/kitchen5.png",
+     "title": "Kitchen products",
+     "description": "some description here....",
+     "price": "9.99"
+     },
+     {
+      "image": "products/kitchen6.png",
+      "title": "Kitchen products",
+      "description": "some description here....",
+      "price": "9.99"
+      },
+      {
+       "image": "products/kitchen7.png",
+       "title": "Kitchen products",
+       "description": "some description here....",
+       "price": "9.99"
+       },
+       {
+        "image": "products/kitchen8.png",
+        "title": "Kitchen products",
+        "description": "some description here....",
+        "price": "9.99"
+        }
+ 
+],
+"electronics":[
+ {
+  "image": "products/electronic1.png",
+  "title": "Kitchen products",
+  "description": "some description here....",
+  "price": "9.99"
+ },
+ {
+  "image": "products/electronic2.png",
+  "title": "Kitchen products",
+  "description": "some description here....",
+  "price": "9.99"
+ },
+ {
+  "image": "products/electronic3.png",
+  "title": "Kitchen products",
+  "description": "some description here....",
+  "price": "9.99"
+ },
+ {
+  "image": "products/electronic4.png",
+  "title": "Kitchen products",
+  "description": "some description here....",
+  "price": "9.99"
+ },
+ {
+  "image": "products/electronic5.png",
+  "title": "Kitchen products",
+  "description": "some description here....",
+  "price": "9.99"
+ },
+ {
+  "image": "products/electronic6.png",
+  "title": "Kitchen products",
+  "description": "some description here....",
+  "price": "9.99"
+ },
+ {
+  "image": "products/electronic7.png",
+  "title": "Kitchen products",
+  "description": "some description here....",
+  "price": "9.99"
+ },
+ {
+  "image": "products/electronic8.png",
+  "title": "Kitchen products",
+  "description": "some description here....",
+  "price": "9.99"
+ }
+]
+
+}
